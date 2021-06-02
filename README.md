@@ -1,5 +1,7 @@
 # Tarea_Polimorfismo_Equipo5
 
+Este es nuestro repositorio para nuestra tarea sobre polimorfismo en Programación Orientada a Objetos.
+
 ## Integrantes del equipo: 
 
 José Abraham González Navarro - A00369832
